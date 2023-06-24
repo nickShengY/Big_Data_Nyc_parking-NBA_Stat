@@ -1,4 +1,4 @@
-# Project1-Question 1-NYC Parking Violations Analysis
+# Question 1-NYC Parking Violations Analysis
 # Introduction 
 ***This Directory needs to be placed at "/mapreduce-test/mapreduce-test-python/", failing placing it at the right place could cause the program to crash.***  
   
