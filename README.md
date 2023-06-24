@@ -28,7 +28,7 @@ To help individuals make informed parking decisions around the Lincoln Center, w
 
 ## NBA Shot Analysis using Big Data and Machine Learning Techniques
 
-** Project Description **
+**Project Description**
 
 In this ground-breaking project, we delve into the exciting world of NBA by analyzing shot logs from the 2014-2015 season using the power of MapReduce and machine learning algorithms. We mined a large dataset detailing each shot to extract insights and develop new metrics.
 
@@ -60,7 +60,7 @@ This project showcases our skills in Big Data analysis, predictive modeling, and
 
 - [Sheng Yun](https://github.com/nickShengY)
 - [Haoran Xue](https://github.com/xhinini)
-- [Jingyan Xu](horatioxu1122)
+- [Jingyan Xu](https://github.com/horatioxu1122)
 
 
 
