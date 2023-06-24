@@ -1,5 +1,5 @@
 # Big_Data_Nyc_parking-NBA_Stat
-SmartParking NYC: Leveraging Big Data &amp; Predictive Modeling to Navigate NYC Parking
+SmartParking NYC: Leveraging Big Data &amp; NBA Shot Analysis using Big Data
 
 ## SmartParking NYC: Leveraging Big Data & Predictive Modeling to Navigate NYC Parking
 
