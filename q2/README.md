@@ -1,4 +1,4 @@
-# Project1-Question 2-NBA Shot Logs Analysis
+# Question 2-NBA Shot Logs Analysis
 # Introduction    
 ***This Directory needs to be placed at "/mapreduce-test/mapreduce-test-python/", failing placing it at the right place could cause the program to crash.***  
  
